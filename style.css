@@ -42,3 +42,37 @@ button {
   border: none;
   border-radius: 5px;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.content h2 {
+  font-size: 3rem;
+}
+
+.content ul {
+  list-style: none;
+}
+
+.content li {
+  font-size: 1.25rem;
+}
+
+.content p {
+  font-size: 1.25rem;
+}
+
+#our-services {
+  color: #d90368;
+}
+
+#about-us {
+  color: #04a777;
+}
+
+#contact-us {
+  color: #fb8b24;
+}
