@@ -4,6 +4,7 @@
   background-color: #820263;
   color: white;
   padding-left: 10px;
+  width: 100%;
 }
 
 .navbar ul {
@@ -75,4 +76,12 @@ button {
 
 #contact-us {
   color: #fb8b24;
+}
+
+footer {
+  background-color: #820263;
+  padding: 15px;
+  color: white;
+  text-align: center;
+  width: 100%;
 }
